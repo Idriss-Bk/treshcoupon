@@ -15,7 +15,7 @@ const AliExpress = () => {
         </div>
         <div className="lg:w-7/12">
             <h1 className='text-3xl text-zinc-900 font-bold mb-3 capitalize'>AliExpress promo codes & discounts</h1>
-            <p className='text-sm text-zinc-700 mb-4'>Today's best AliExpress coupons for June 23, 2024. Join the TreshrCoupon community and earn cash back at aliexpress.us and more. Earn rewards for sharing AliExpress discount codes and helping other shoppers save.</p>
+            <p className='text-sm text-zinc-700 mb-4'>Today&#34;s best AliExpress coupons for June 23, 2024. Join the TreshrCoupon community and earn cash back at aliexpress.us and more. Earn rewards for sharing AliExpress discount codes and helping other shoppers save.</p>
             <div className='text-sm text-zinc-800 mb-4 font-semibold'>
                 <span className='inline-block text-black mr-2'><IoStar className='inline-block text-black relative -top-[2px]' /> 4,3</span>
                 <span className='inline-block text-black mr-2 underline'>10 Ratings</span>

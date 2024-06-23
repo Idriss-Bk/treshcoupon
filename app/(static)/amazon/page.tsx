@@ -16,7 +16,7 @@ const Amazon = () => {
         </div>
         <div className="lg:w-7/12">
             <h1 className='text-3xl text-zinc-900 font-bold mb-3 capitalize'>Amazon promo codes & discounts</h1>
-            <p className='text-sm text-zinc-700 mb-4'>Today's best Amazon coupons for June 23, 2024. Join the TreshrCoupon community and earn cash back at amazon.com and more. Earn rewards for sharing Amazon discount codes and helping other shoppers save.</p>
+            <p className='text-sm text-zinc-700 mb-4'>Today&lsquo;s best Amazon coupons for June 23, 2024. Join the TreshrCoupon community and earn cash back at amazon.com and more. Earn rewards for sharing Amazon discount codes and helping other shoppers save.</p>
             <div className='text-sm text-zinc-800 mb-4 font-semibold'>
                 <span className='inline-block text-black mr-2'><IoStar className='inline-block text-black relative -top-[2px]' /> 3,9</span>
                 <span className='inline-block text-black mr-2 underline'>8 Ratings</span>

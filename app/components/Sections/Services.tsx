@@ -12,7 +12,7 @@ const Services = () => {
   return (
     <div className="mb-16">
       <h3 className="text-2xl text-zinc-800 md:text-3xl mb-2 font-bold">
-        Today's Trending Coupons
+        Today&#34;s Trending Coupons
       </h3>
       <p className="text-sm font-normal text-zinc-900">
         {" "}

@@ -42,7 +42,7 @@ const Posts = () => {
                   <div className="blog-exp mb-3.5">
                     <p className="text-zinc-800 text-base font-normal">
                       Contributing to Open Source projects can be a game-changer
-                      in a software developer's career. The experience helps you
+                      in a software developer&#34;s career. The experience helps you
                       connect with other developers...
                     </p>
                   </div>
