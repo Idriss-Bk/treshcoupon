@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <main className="mb-14 px-4 lg:px-0">
       <Hero />
-      uhyu8bhuyb
       <Services />
       <HowitWork />
       <Posts />
