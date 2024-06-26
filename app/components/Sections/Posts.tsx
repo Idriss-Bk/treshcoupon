@@ -56,7 +56,7 @@ export default async function AllBlogPosts() {
             featuredImage: any;
             categories: any;
           }) => (
-            <Link href={`/blog/${post.node.slug}`}>
+            <Link key={post.node.slug} href={`/blog/${post.node.slug}`}>
               <div className="py-4 border-b-[1px] border-slate-200 mt-2 hover:bg-transparent md:hover:bg-slate-200">
                 <div className="lg:flex gap-4">
                   <div className="lg:w-5/12">
