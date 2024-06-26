@@ -15,7 +15,7 @@
   .progressBarFill {
     position: absolute;
     height: 100%;
-    background-color: #007bff; /* Color of progress bar fill */
+    background-color: #E43225; /* Color of progress bar fill */
     border-radius: 100px; /* Match container's border radius */
     transition: width 0.3s ease; /* Smooth animation */
   }
@@ -23,6 +23,7 @@
   .progressText {
     position: absolute;
     bottom: 7px;
+    color: #000000;
     left: 4%;
     transform: translateX(-50%);
     font-size: 16px;
